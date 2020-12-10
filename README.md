@@ -6,6 +6,8 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos
 
+pumping and jumping is great exercise!
+
 ## Purpose
 
 The main purpose is to provide simple examples for Git training demos.
