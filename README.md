@@ -8,6 +8,8 @@ Sample website with plenty of files for demos
 
 pumping and jumping is great exercise!So is running!
 
+We are doing some more stuff here!
+
 ## Purpose
 
 The main purpose is to provide simple examples for Git training demos.
