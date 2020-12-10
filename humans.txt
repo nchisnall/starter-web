@@ -3,6 +3,7 @@
 
 # TEAM
 
+	Neil Edwards	n.edwards@gmail.com @nedwards
     <name> -- <role> -- <twitter>
 
 # THANKS
