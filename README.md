@@ -21,4 +21,4 @@ This is a simple web project, deployment can be on any web server or even local 
 Please fork this repository and then issue Pull Requests for review.
 
 ### Copyright
-2020 N Chisnall
+2020 N Chisnall. All rights reserved
