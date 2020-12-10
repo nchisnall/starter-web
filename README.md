@@ -6,7 +6,7 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos
 
-pumping and jumping is great exercise!
+pumping and jumping is great exercise!So is running!
 
 ## Purpose
 
